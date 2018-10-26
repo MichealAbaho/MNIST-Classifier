@@ -1,2 +1,2 @@
 # MNIST-Classifier
-A deep-net model that learn how to recognise handwritten digits. The data set  is extracted from http://yann.lecun.com/exdb/mnist/
+A deep-net model that learn how to recognise handwritten digits. The data set is extracted from http://yann.lecun.com/exdb/mnist/ {MNIST data set, contains tens of thousands of scanned images of handwritten digits, together with their correct classifications. MNIST's name comes from the fact that it is a modified subset of two data sets collected by NIST, the United States' National Institute of Standards and Technology.}
